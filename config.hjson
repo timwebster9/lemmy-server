@@ -8,7 +8,7 @@
   }
   hostname: "feddit.deggymacets.com"
   pictrs: {
-    url: "http://pictrs:8080/"
+    url: "http://pictrs:80/"
     api_key: "postgres"
   }
   email: {
